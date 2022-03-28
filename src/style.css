@@ -1,0 +1,27 @@
+body {
+    background-color: #083B4C;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 100px;
+}
+
+.square-color-red {
+    background-color: #F0466F;
+}
+
+.square-color-green {
+    background-color: #0BD6A1;
+}
+
+.square-color-yellow {
+    background-color: #FFD166;
+}
+
+.square-color-blue {
+    background-color: #1389B2;
+}
